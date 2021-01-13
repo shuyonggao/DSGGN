@@ -1,0 +1,2 @@
+# dual-stream-global-guidance-network
+code for "DUAL-STREAM NETWORK BASED ON GLOBAL GUIDANCE FOR SALIENT OBJECT DETECTION"
