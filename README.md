@@ -5,4 +5,4 @@ code for "DUAL-STREAM NETWORK BASED ON GLOBAL GUIDANCE FOR SALIENT OBJECT DETECT
 
 # Saliency maps & Trained model
 * saliency maps: [google](https://drive.google.com/drive/my-drive)
-* traind model: [google](https://drive.google.com/drive/my-drive)
+* traind model: [google](https://drive.google.com/file/d/1Y1M2urXuHDjXBQkWZSQpfhIuP7nhmCNB/view?usp=sharing)
